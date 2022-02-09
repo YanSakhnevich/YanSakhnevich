@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/yan-sakhnevich-8b836a180/">
-  <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 
 
 <br />
@@ -10,7 +10,7 @@
 
 Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's programming, I enjoy FPV drones.
 
-  <img align="right" alt="GIF" width="460px" src="https://github.com/YanSakhnevich/YanSakhnevichGH/blob/master/img_and_gif/dev.gif" />
+  <img align="right" alt="GIF" width="460px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/dev.gif" />
   
 **Talking about Personal Stuffs:**
 
@@ -22,13 +22,13 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 
 
 **Languages and Tools:**  
-<code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevichGH/blob/master/img_and_gif/xcode_icon.png"></code>
-<code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevichGH/blob/master/img_and_gif/swift_icon.png"></code>
+<code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/xcode_icon.png"></code>
+<code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/swift_icon.png"></code>
 
 **Readed:**  
 
 <p>
-    <a href="https://github.com/YanSakhnevich/YanSakhnevichGH/blob/master/img_and_gif/grokaem_alg.png">
+    <a href="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/grokaem_alg.png">
     <img width="40" src="img_and_gif/grokaem_alg.png"/></a>
 </p> 
 
