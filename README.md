@@ -30,8 +30,6 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 
 <br />
 <br />
-<br />
-
 
 **🛠 Languages and Tools:** 
 <br />
@@ -52,6 +50,8 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 **💻 My working station:**
 <br />
 <a href="https://www.apple.com/ru/shop/buy-mac/macbook-pro/13-%D0%B4%D1%8E%D0%B9%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9-%C2%AB%D1%81%D0%B5%D1%80%D1%8B%D0%B9-%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%C2%BB-%D1%87%D0%B8%D0%BF-apple-m1-%D1%81-8-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%BC-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%BC-%D0%B8-8-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%BC-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%BC-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%BC-256%D0%B3%D0%B1"> <img width="150" src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
+<br />
 
 ![Yan's github stats](https://github-readme-stats.vercel.app/api?username=YanSakhnevich&show_icons=true&hide_border=false)
 
