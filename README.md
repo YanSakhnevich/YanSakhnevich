@@ -17,11 +17,11 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
   <img align="right" alt="GIF" width="320px" style="border-radius:10%" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/dev.gif" />
   
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently studying at the online school "Netology" with a degree in "iOS Developer"
-- 💬 Ask me about anything, I am happy to help;
-- ⚡  Available for Freelance projects/internship opportunities.
-- 📫 How to reach me: yansakhnevich@gmail.com;
-- 📝[Resume](https://kazan.hh.ru/resume/e0026d1eff098df3850039ed1f586563637053)
+- 👨🏽‍💻  I’m currently studying at the online school "Netology" with a degree in "iOS Developer"
+- 💬  Ask me about anything, I am happy to help
+- ⚡  Available for Freelance projects/internship opportunities
+- 📫  How to reach me: yansakhnevich@gmail.com
+- 📝  [Resume](https://kazan.hh.ru/resume/e0026d1eff098df3850039ed1f586563637053)
 
 **🛠 Languages and Tools:** 
 <br />
