@@ -27,6 +27,12 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 **Readed:**  
 <a href="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/grokaem_alg.png">
     <img width="40" src="img_and_gif/grokaem_alg.png"/></a>
+<a href="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/patterns.png">
+    <img width="40" src="img_and_gif/patterns.png"/></a>
+<a href="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/swift_for_kids.png">
+    <img width="40" src="img_and_gif/swift_for_kids.png"/></a>
+<a href="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/swift_usov.png">
+    <img width="40" src="img_and_gif/swift_usov.png"/></a>
 
 **💻 My working station:**
 <br />
