@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/yan-sakhnevich-8b836a180/">
-  <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.gif"></a>
+  <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.png"></a>
 
 
 <br />
