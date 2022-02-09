@@ -5,6 +5,9 @@
   <img align="left" width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.png"></a>
 <a href="https://t.me/YanSakhnevich">
   <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/telegram_icon.png"></a>
+<a href="https://www.instagram.com/y_sakh/">
+  <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/insta.png"></a>
+  
 
 <br />
 <br />
