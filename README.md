@@ -19,7 +19,7 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
   
 <br />
 <br />
-<br />
+
   
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻  I’m currently studying at the online school "Netology" with a degree in "iOS Developer"
@@ -31,8 +31,7 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 **🛠 Languages and Tools:** 
 <br />
