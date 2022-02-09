@@ -49,10 +49,8 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 
 **📜 My projects:**
 <br />
-<a href="https://github.com/YanSakhnevich/1.-iOS-developer-course">
-  <img width="40" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ios_mobile.png"></a>
-  <a href="https://github.com/YanSakhnevich/Project1_MyHabits">
-  <img width="40" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/my_habits.png"></a>
+- 🎓  [iOS developer from scratch course](https://github.com/YanSakhnevich/1.-iOS-developer-course)
+- 🖇  [MyHabits App](https://github.com/YanSakhnevich/Project1_MyHabits)
 
 
 **💻 My working station:**
