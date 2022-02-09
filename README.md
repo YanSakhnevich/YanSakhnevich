@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/yan-sakhnevich-8b836a180/">
-  <img align="left" width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.png"></a>
+  <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.png"></a>
 <a href="https://t.me/YanSakhnevich">
   <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/telegram_icon.png"></a>
 <a href="https://www.instagram.com/y_sakh/">
