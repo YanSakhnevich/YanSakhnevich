@@ -32,7 +32,7 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 </a>
 
 
-![Yan's github stats](https://github-readme-stats.vercel.app/api?username=darkspiriton&show_icons=true&hide_border=true)
+![Yan's github stats](https://github-readme-stats.vercel.app/api?username=YanSakhnevich&show_icons=true&hide_border=true)
 
 ⭐️ From [YanSakhnevich](https://github.com/YanSakhnevich)
 
