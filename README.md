@@ -12,9 +12,14 @@
 <br />
 <br />
 
+
 Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's programming, I enjoy FPV drones.
 
   <img align="right" alt="GIF" width="320px" style="border-radius:10%" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/dev.gif" />
+  
+<br />
+<br />
+<br />
   
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻  I’m currently studying at the online school "Netology" with a degree in "iOS Developer"
@@ -22,6 +27,12 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 - ⚡  Available for Freelance projects/internship opportunities
 - 📫  How to reach me: yansakhnevich@gmail.com
 - 📝  [Resume](https://kazan.hh.ru/resume/e0026d1eff098df3850039ed1f586563637053)
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 **🛠 Languages and Tools:** 
 <br />
