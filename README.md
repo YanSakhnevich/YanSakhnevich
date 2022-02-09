@@ -2,8 +2,9 @@
 
 
 <a href="https://www.linkedin.com/in/yan-sakhnevich-8b836a180/">
-  <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.png"></a>
-
+  <img align="left" width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.png"></a>
+<a href="https://t.me/YanSakhnevich">
+  <img align="left" width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/telegram_icon.png"></a>
 
 <br />
 <br />
@@ -19,12 +20,13 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 - 📫 How to reach me: yansakhnevich@gmail.com;
 - 📝[Resume](https://kazan.hh.ru/resume/e0026d1eff098df3850039ed1f586563637053)
 
-**Languages and Tools:** 
+**🛠 Languages and Tools:** 
 <br />
 <code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/xcode_icon.png"></code>
 <code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/swift_icon.png"></code>
+<code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/sublime_text.svg"></code>
 
-**Readed:**  
+**📖 Readed:**  
 <a href="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/grokaem_alg.png">
     <img width="40" src="img_and_gif/grokaem_alg.png"/></a>
 <a href="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/patterns.png">
