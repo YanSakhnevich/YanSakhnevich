@@ -21,15 +21,14 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 - 📝[Resume](https://kazan.hh.ru/resume/e0026d1eff098df3850039ed1f586563637053)
 
 
+
 **Languages and Tools:**  
 <code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/xcode_icon.png"></code>
 <code><img height="20" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/swift_icon.png"></code>
 
 **Readed:**  
-<p>
     <a href="https://github.com/YanSakhnevich/YanSakhnevich/blob/master/img_and_gif/grokaem_alg.png">
     <img width="40" src="img_and_gif/grokaem_alg.png"/></a>
-</p> 
 
 ⭐️ From [YanSakhnevich](https://github.com/YanSakhnevich)
 
