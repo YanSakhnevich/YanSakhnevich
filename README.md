@@ -5,8 +5,6 @@
   <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/ln_icon.png"></a>
 
 
-<br />
-<br />
 
 Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's programming, I enjoy FPV drones.
 
