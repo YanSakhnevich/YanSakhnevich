@@ -60,9 +60,9 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 
 <br />
 
-![Yan's github stats](https://github-readme-stats.vercel.app/api?username=YanSakhnevich&show_icons=true&hide_border=false)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
-⭐️ From [YanSakhnevich](https://github.com/YanSakhnevich)
+![Yan's github stats](https://github-readme-stats.vercel.app/api?username=YanSakhnevich&show_icons=true&theme=tokyonight_icons=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YanSakhnevich&color=blue&style=plastic-square)
 
