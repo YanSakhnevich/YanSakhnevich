@@ -62,6 +62,6 @@ Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's pr
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YanSakhnevich&color=blue&style=plastic-square)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=YanSakhnevich&color=blue&style=plastic-square) -->
 
 
