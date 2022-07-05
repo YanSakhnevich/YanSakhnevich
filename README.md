@@ -8,12 +8,9 @@
 <a href="https://www.instagram.com/y_sakh/">
   <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/insta.png"></a>
   
-  <!--<img align='right' alt='GIF' width='320px' style="border-radius:10%" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/dev.gif" />-->
-  
 <br />
 <br />
 
-  
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻  I’m currently studying at the online school "Netology" with a degree in "iOS Developer"
 - 💬  Ask me about anything, I am happy to help
