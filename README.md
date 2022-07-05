@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Yan 
+### Hey 👋🏽, I'm Yan, and I'am iOS developer 🚀
 
 
 <a href="https://www.linkedin.com/in/yan-sakhnevich-8b836a180/">
@@ -8,13 +8,6 @@
 <a href="https://www.instagram.com/y_sakh/">
   <img width="22px" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/insta.png"></a>
   
-
-<br />
-<br />
-
-
-Hi, I'm Yan, a passionate iOS developer 🚀. Beside's programming, I enjoy FPV drones.
-
   <!--<img align='right' alt='GIF' width='320px' style="border-radius:10%" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/dev.gif" />-->
   
 <br />
