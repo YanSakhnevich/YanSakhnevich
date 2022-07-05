@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Yan, and I'am iOS developer 🚀
+### Hey 👋🏽, I'm Yan.
 
 
 <a href="https://www.linkedin.com/in/yan-sakhnevich-8b836a180/">
