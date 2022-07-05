@@ -15,7 +15,7 @@
 
 Hi, I'm Yan Sakhnevich, a passionate iOS developer 🚀 from Russia. Beside's programming, I enjoy FPV drones.
 
-  <img align='right' alt='GIF' width='320px' style="border-radius:10%" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/dev.gif" />
+  <!--<img align='right' alt='GIF' width='320px' style="border-radius:10%" src="https://github.com/YanSakhnevich/YanSakhnevich/blob/main/img_and_gif/dev.gif" />-->
   
 <br />
 <br />
