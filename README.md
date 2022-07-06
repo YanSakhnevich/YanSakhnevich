@@ -16,7 +16,7 @@
 - 💬  Ask me about anything, I am happy to help
 - ⚡  Available for Freelance projects/internship opportunities
 - 📫  How to reach me: yansakhnevich@gmail.com
-- 📝  [Resume](https://drive.google.com/file/d/18a-92hBuKJnJXC2xDTvQSf5xXe088eLU/view?usp=sharing)
+- 📝  [Resume](https://drive.google.com/file/d/1FsHXFqQ1KuZTYlRA329RdkpMyuxWACKt/view?usp=sharing)
 
 <br />
 <br />
